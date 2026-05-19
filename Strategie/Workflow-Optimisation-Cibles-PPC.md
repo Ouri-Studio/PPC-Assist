@@ -144,3 +144,29 @@ Aller dans l'onglet Termes de recherche.
 • Version : 1.0
 • Auteur : Ouri‑Studio
 • Dernière mise à jour : 2026-05-16
+---
+
+## Nouvelles règles ajoutées (mai 2026)
+
+### Règle 1 — Disparition entre 30j et 90j
+Si une cible apparaît dans les filtres 30 jours mais disparaît dans les filtres 90 jours, cela signifie qu'elle n'est pas structurellement dangereuse.
+- On la garde.
+- On ajuste l'enchère si nécessaire.
+- On ne coupe pas.
+
+### Règle 2 — CTR élevé mais pas de conversion après 20 clics
+Si un mot‑clé a un CTR élevé (> 1 %) mais dépasse 20 clics sans vente, il attire un trafic intéressé mais non acheteur.
+- Désactiver la cible.
+- Ne pas négativer (le terme reste pertinent).
+
+### Règle 3 — CTR exceptionnel mais peu de clics
+Si un mot‑clé a un CTR exceptionnel (> 2 %) mais moins de 10 clics, il est trop tôt pour juger.
+- Garder la cible.
+- Baisser l'enchère pour contrôler le coût.
+- Ne pas négativer.
+
+### Règle 4 — Désactiver vs Négativer
+- Désactiver = le mot‑clé est pertinent mais ne convertit pas dans cette campagne.
+- Négativer = le terme est hors sujet, trop large, ou structurellement non rentable.
+- On désactive les cibles pertinentes mais non performantes.
+- On négative les termes non pertinents ou dangereux.
